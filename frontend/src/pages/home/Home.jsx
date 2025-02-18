@@ -29,6 +29,7 @@ const Home = () => {
         "Content-Type": "application/json",
       }
     })
+
     
 
     if (!response.ok) {
